@@ -7,8 +7,6 @@
 
 ⚡ Fato divertido: Amo desafios de programação e resolver problemas criativos! 😄
 
-<br>
-🛠  Tech Stack
       
 
 <br>
