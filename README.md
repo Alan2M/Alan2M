@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alan Matos Mendes</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alan2M&color=yellow" alt="Profile views" /> </p>
-📚 Estudante de Ciências da Computação no primeiro período do CESAR School
+📚 Estudante de Ciências da Computação no CESAR School
 
 🔭 Explorando e aprendendo novas tecnologias
 
